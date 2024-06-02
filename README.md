@@ -25,7 +25,7 @@ You can access this project using the link below
 [https://3kh0.github.io](https://3kh0.github.io)
 
 
-## Host the website
+## Host the website 
 
 Below are some of the options you can use to deploy your own copy of the site. **If you do not know what you are doing, it is suggested that you use a link someone is currently hosting!**
 
